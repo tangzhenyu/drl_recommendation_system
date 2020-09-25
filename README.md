@@ -1,2 +1,1 @@
-# drl_recommendation_system
-deep reinforcement learning, recommendation system
+# DQN_for_News_Recommendation
